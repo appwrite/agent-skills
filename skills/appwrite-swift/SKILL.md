@@ -10,7 +10,7 @@ description: Appwrite Swift SDK skill. Use when building native iOS, macOS, watc
 
 ```swift
 // Swift Package Manager — Package.swift
-.package(url: "https://github.com/appwrite/sdk-for-swift", from: "1.8.1")
+.package(url: "https://github.com/appwrite/sdk-for-swift", branch: "main")
 ```
 
 ## Setting Up the Client
