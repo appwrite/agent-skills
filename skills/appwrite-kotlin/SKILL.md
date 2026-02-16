@@ -10,10 +10,10 @@ description: Appwrite Kotlin SDK skill. Use when building native Android apps or
 
 ```kotlin
 // build.gradle.kts — Android
-implementation("io.appwrite:sdk-for-android:1.8.1")
+implementation("io.appwrite:sdk-for-android:+")
 
 // build.gradle.kts — Server (Kotlin JVM)
-implementation("io.appwrite:sdk-for-kotlin:1.8.1")
+implementation("io.appwrite:sdk-for-kotlin:+")
 ```
 
 ## Setting Up the Client
