@@ -12,7 +12,7 @@ description: Appwrite CLI skill. Use when managing Appwrite projects from the co
 # npm
 npm install -g appwrite-cli
 
-# macOS (Homebrew)
+# macOS (Homebrew native binary)
 brew install appwrite
 
 # macOS / Linux (script)

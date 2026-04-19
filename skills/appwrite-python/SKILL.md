@@ -19,7 +19,7 @@ from appwrite.client import Client
 from appwrite.id import ID
 from appwrite.query import Query
 from appwrite.services.users import Users
-from appwrite.services.tablesdb import TablesDB
+from appwrite.services.tables_db import TablesDB
 from appwrite.services.storage import Storage
 from appwrite.services.functions import Functions
 from appwrite.enums.o_auth_provider import OAuthProvider
