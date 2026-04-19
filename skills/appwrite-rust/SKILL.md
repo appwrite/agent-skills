@@ -18,7 +18,7 @@ Or add dependencies manually:
 
 ```toml
 [dependencies]
-appwrite = "0.0.0"
+appwrite = "0.3.0"
 tokio = { version = "1", features = ["full"] }
 serde_json = "1"
 ```
