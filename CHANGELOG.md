@@ -5,7 +5,7 @@
 * Updated: Compatible with Appwrite server `1.9.x`
 * Added: Multi-file project configuration via `includes` in `appwrite.config.json`
 * Added: Explicit account switching with `appwrite login --switch`
-* Added: Flag-based list query helpers (`--where`, `--sort-desc`, `--limit`, `--cursor-after`, `--select`, `--json`)
+* Added: Flag-based list query helpers (`--where`, `--sort-asc`, `--sort-desc`, `--limit`, `--offset`, `--cursor-after`, `--cursor-before`, `--select`, `--json`)
 * Added: Webhook management (`appwrite webhooks`, `appwrite pull/push webhooks`)
 * Added: `.env`-based function and site variables workflow with `--with-variables`
 * Added: Project management commands (services, protocols, OAuth providers, mock phones, ephemeral keys)

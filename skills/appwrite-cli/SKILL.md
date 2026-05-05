@@ -38,6 +38,9 @@ appwrite login
 # Login to a self-hosted instance
 appwrite login --endpoint "https://your-instance.com/v1"
 
+# Switch to a different saved account during login
+appwrite login --switch
+
 # Initialize a project (creates appwrite.config.json)
 appwrite init project
 
