@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1
+
+* Fixed: Permission and access-control wording in skills updated for TablesDB (`row`/`table` instead of `document`/`collection`)
+
 ## 0.2.0
 
 * Updated: Compatible with Appwrite server `1.9.x`
